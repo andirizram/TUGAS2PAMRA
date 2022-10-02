@@ -1,1 +1,4 @@
-# TUGAS2PAMRA
+<h2>TUGAS INDIVIDU 2 PAM (RA)</h2>
+<br>NAMA  : ANDIKA RIZKI RAMADHAN</br>
+<br>NIM   : 120140002</br>
+<br>KELAS : RA</br>
